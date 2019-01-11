@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MyFirstSharpApp", "Lesson02\MyFirstSharpApp\MyFirstSharpApp.fsproj", "{74D1B8FC-C09E-4D78-A915-9CF867733325}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MySecondSharpApp", "Lesson02\MySecondSharpApp\MySecondSharpApp.fsproj", "{B39FFB9E-83E3-4016-92A9-84658E18BE22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{74D1B8FC-C09E-4D78-A915-9CF867733325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D1B8FC-C09E-4D78-A915-9CF867733325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D1B8FC-C09E-4D78-A915-9CF867733325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39FFB9E-83E3-4016-92A9-84658E18BE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39FFB9E-83E3-4016-92A9-84658E18BE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39FFB9E-83E3-4016-92A9-84658E18BE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39FFB9E-83E3-4016-92A9-84658E18BE22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
