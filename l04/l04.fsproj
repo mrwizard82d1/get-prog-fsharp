@@ -8,6 +8,7 @@
   <ItemGroup>
     <None Include="listing-4.1.fsx" />
     <None Include="try-4.1.fsx" />
+    <None Include="listing-4.2.fsx" />
   </ItemGroup>
 
 </Project>
