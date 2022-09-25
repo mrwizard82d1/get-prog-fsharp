@@ -10,6 +10,9 @@
     <None Include="try-4.1.fsx" />
     <None Include="listing-4.2.fsx" />
     <None Include="listing-4.4.fsx" />
+    <None Include="listing-4.5.fsx" />
+    <None Include="listing-4.6.fsx" />
+    <None Include="listing-4.7.fsx" />
   </ItemGroup>
 
 </Project>
