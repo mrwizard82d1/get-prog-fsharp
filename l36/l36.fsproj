@@ -7,6 +7,7 @@
 
     <ItemGroup>
       <None Include="listing-36.1.fsx" />
+      <None Include="listing-36.2.fsx" />
     </ItemGroup>
 
 </Project>
